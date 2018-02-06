@@ -1,3 +1,4 @@
+" version 0.0.2.20171016
 scriptencoding cp932
 set number
 set nocompatible                " choose no compatibility with legacy vi
